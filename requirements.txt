@@ -1,0 +1,7 @@
+fastapi[standard]
+torch
+python-dotenv
+numpy
+requests
+aiofiles
+python-json-logger
